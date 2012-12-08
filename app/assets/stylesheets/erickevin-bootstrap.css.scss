@@ -1,0 +1,37 @@
+$linkColor: #ff7bac;
+@import 'bootstrap';
+body {
+  background: url('/assets/debut_light.png');
+}
+
+.pink {
+  color: #ff7bac;
+}
+
+.blue {
+  color: #3fa9f5;
+}
+
+.green {
+  color: #7ac943;
+}
+
+.center {
+  text-align: center;
+}
+
+.italic {
+  font-style: italic;
+}
+
+a.pink:hover {
+  color: #ff7bac;
+}
+
+a.blue:hover {
+  color: #3fa9f5;
+}
+
+a.green:hover {
+  color: #7ac943;
+}
